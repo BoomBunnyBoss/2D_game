@@ -1,0 +1,7 @@
+img {
+    display: none;
+}
+
+canvas{ 
+    border: 6px double black; 
+}
